@@ -43,3 +43,12 @@ The main objective of this project is to develop a robust and accurate predictiv
 16. Careful consideration of multicollinearity, despite its presence, deemed feature removal unnecessary, given the limited dataset size.
 
 17. The selection of Ridge Regression with GridSearchCV as the final prediction model was substantiated by its exceptional performance, as demonstrated by the low RMSE and high R-2 score.
+**************************************************************************************************************************************************
+For complete project video explaination and to downoad the dataset: [Click here](https://drive.google.com/drive/folders/1Bo2o9vJEHNhZI3bZdueY0adI_mag6ae8?usp=sharing)
+
+Feel free to explore the repository to gain further insights into the code implementation, methodology, and findings.
+
+Connect with me on [Linkedin](https://www.linkedin.com/in/vibhuti-gupta-131336232/).
+
+Happy Learning!
+**************************************************************************************************************************************************
